@@ -1,6 +1,6 @@
-# Plants vs. Zombies Project
+# LVGL Game on ESP32
 
-This project is based on LVGL and implements a simplified version of Plants vs. Zombies, then ported to the ESP32-S3-BOX-3 development board.
+Developed Several Games Based on LVGL, Currently Including Plants vs. Zombies and Tetris, Ported to ESP32-S3-BOX-3 Development Board
 
 ## How to use project
 
